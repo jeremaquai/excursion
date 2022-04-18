@@ -49,8 +49,7 @@ a {
     text-align: right;
     font-size: 21px;
     color: gray;
+    margin: 1rem 1rem;
+    padding: 1rem;
 }
 
-.footer  i {
-    color: gray;
-}
