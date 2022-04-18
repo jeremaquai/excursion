@@ -34,9 +34,19 @@ a {
 }
 
 .photo-container {
+    padding: 1rem auto;
     margin: 1rem auto;
 }
 
 .image-container {
+    padding: 1rem auto;
     margin: 1rem auto;
+}
+
+/* footer */
+
+footer {
+    text-align: right;
+    font-size: 21px;
+    color: gray;
 }
